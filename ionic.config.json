@@ -1,0 +1,8 @@
+{
+  "name": "IonicShoppingList",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "43432ca7"
+}
