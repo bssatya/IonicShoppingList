@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular/';
+import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
 /**
  * Generated class for the AddShoppingItemPage page.
@@ -11,7 +11,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular/';
 @IonicPage()
 @Component({
   selector: 'page-add-shopping-item',
-  templateUrl: 'addShoppingItem.html',
+  templateUrl: 'add-shopping-item.html',
 })
 export class AddShoppingItemPage {
 

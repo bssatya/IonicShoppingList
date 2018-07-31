@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
-import { IonicPageModule } from 'ionic-angular/';
-import { AddShoppingItemPage } from './addShoppingItem';
+import { IonicPageModule } from 'ionic-angular';
+import { AddShoppingItemPage } from './add-shopping-item';
 
 @NgModule({
   declarations: [
